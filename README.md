@@ -1,6 +1,6 @@
 # Wildlife Species Identification using CNN
 
-This project trains a Convolutional Neural Network (CNN) to classify six wild animals: **Fox, Lion, Hyena, Wolf, Tiger, and Cheetah**.
+In this project i've built and trained a Convolutional Neural Network (CNN) to classify six wild animals: **Fox, Lion, Hyena, Wolf, Tiger, and Cheetah**.
 
 ### Dataset: [Wildlife Animals Images](https://www.kaggle.com/datasets/anshulmehtakaggl/wildlife-animals-images)
 
